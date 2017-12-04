@@ -1,4 +1,3 @@
-
 /*/  
  * $ Calls v0.9 ##
  * (c) 2012 Q Studio - qstudio.us
@@ -30,4 +29,4 @@ function GreenheartBrandBar( target ){
      } else { return false; }
     return false;
     }
-
+}
